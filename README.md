@@ -21,9 +21,9 @@ Graphica official website: [graphica.fun](https://www.graphica.fun/)
   
 Graphica official X: [x.com/graphicadotfun](https://x.com/graphicaai)
 
-Graphica Pump.fun: [pump.fun](https://pump.fun/)
+Graphica Pump.fun: [pump.fun](https://pump.fun/CwcyAJQ1K6gd4bsCKiNoD69GS3D8xMGrHvNv6N3pump)
 
-Graphica CA: Coming Soon 
+Graphica CA: CwcyAJQ1K6gd4bsCKiNoD69GS3D8xMGrHvNv6N3pump 
 
 ## 
 ## Running locally
