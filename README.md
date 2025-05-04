@@ -23,7 +23,7 @@ Graphica official X: [x.com/graphicadotfun](https://x.com/graphicaai)
 
 Graphica Pump.fun: [pump.fun](https://pump.fun/)
 
-Graphica CA: Coming Soon
+Graphica CA: Coming Soon 
 
 ## 
 ## Running locally
